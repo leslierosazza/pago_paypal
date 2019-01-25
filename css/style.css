@@ -41,7 +41,7 @@ body {
 	grid-area: contenido;
 	width: 580px;
 	height: 400px;
-	background: #C9DEF1;
+	/*background: #C9DEF1;*/
 	border: 2px solid #083058;
 }
 
